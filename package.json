@@ -9,7 +9,7 @@
     "tinygradient": "^0.4.1"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "codecov": "^3.1.0",
     "cross-env": "^5.2.0",
     "nyc": "^13.1.0",
